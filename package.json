@@ -1,0 +1,26 @@
+{
+  "name": "graphql-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omar-Mahdi-Rafi/graphQL-demo.git"
+  },
+  "keywords": [
+    "graphQL"
+  ],
+  "author": "Omar Mahdi Rafi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omar-Mahdi-Rafi/graphQL-demo/issues"
+  },
+  "homepage": "https://github.com/Omar-Mahdi-Rafi/graphQL-demo#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "graphql": "^16.8.1"
+  }
+}
