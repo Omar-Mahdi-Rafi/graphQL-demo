@@ -21,6 +21,9 @@
   "homepage": "https://github.com/Omar-Mahdi-Rafi/graphQL-demo#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "graphql": "^16.8.1"
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.8.1",
+    "graphql-http": "^1.22.0",
+    "lodash": "^4.17.21"
   }
 }
